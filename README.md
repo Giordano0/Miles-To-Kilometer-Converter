@@ -61,7 +61,3 @@ kilometers = miles × 1.60934
 miles-to-km-converter/
 └── main.py       # Main application file
 ```
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
